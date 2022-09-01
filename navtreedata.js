@@ -25,15 +25,16 @@
 var NAVTREE =
 [
   [ "Tao", "index.html", [
-    [ "how to use it", "index.html#autotoc_md1", null ],
-    [ "Recommended to use vscode for coding", "index.html#autotoc_md2", null ],
+    [ "how to use it", "index.html#autotoc_md6", null ],
+    [ "Recommended to use vscode for coding", "index.html#autotoc_md7", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ]
+        [ "Functions", "functions_func.html", null ],
+        [ "Enumerations", "functions_enum.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
